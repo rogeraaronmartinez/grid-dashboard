@@ -1,2 +1,2 @@
 # grid-dashboard
-Advanced CSS Odin Project final project
+Intermedate CSS Odin Project final project
